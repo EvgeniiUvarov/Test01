@@ -1,0 +1,15 @@
+D:\git-repo\example003_Sum\bin\Debug\net7.0\example003_Sum.exe
+D:\git-repo\example003_Sum\bin\Debug\net7.0\example003_Sum.deps.json
+D:\git-repo\example003_Sum\bin\Debug\net7.0\example003_Sum.runtimeconfig.json
+D:\git-repo\example003_Sum\bin\Debug\net7.0\example003_Sum.dll
+D:\git-repo\example003_Sum\bin\Debug\net7.0\example003_Sum.pdb
+D:\git-repo\example003_Sum\obj\Debug\net7.0\example003_Sum.csproj.AssemblyReference.cache
+D:\git-repo\example003_Sum\obj\Debug\net7.0\example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-repo\example003_Sum\obj\Debug\net7.0\example003_Sum.AssemblyInfoInputs.cache
+D:\git-repo\example003_Sum\obj\Debug\net7.0\example003_Sum.AssemblyInfo.cs
+D:\git-repo\example003_Sum\obj\Debug\net7.0\example003_Sum.csproj.CoreCompileInputs.cache
+D:\git-repo\example003_Sum\obj\Debug\net7.0\example003_Sum.dll
+D:\git-repo\example003_Sum\obj\Debug\net7.0\refint\example003_Sum.dll
+D:\git-repo\example003_Sum\obj\Debug\net7.0\example003_Sum.pdb
+D:\git-repo\example003_Sum\obj\Debug\net7.0\example003_Sum.genruntimeconfig.cache
+D:\git-repo\example003_Sum\obj\Debug\net7.0\ref\example003_Sum.dll
