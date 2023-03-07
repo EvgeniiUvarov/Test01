@@ -1,0 +1,15 @@
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\example005_CondIfEls.csproj.AssemblyReference.cache
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\example005_CondIfEls.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\example005_CondIfEls.AssemblyInfoInputs.cache
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\example005_CondIfEls.AssemblyInfo.cs
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\example005_CondIfEls.csproj.CoreCompileInputs.cache
+D:\git-repo\example005_CondIfEls\bin\Debug\net7.0\example005_CondIfEls.exe
+D:\git-repo\example005_CondIfEls\bin\Debug\net7.0\example005_CondIfEls.deps.json
+D:\git-repo\example005_CondIfEls\bin\Debug\net7.0\example005_CondIfEls.runtimeconfig.json
+D:\git-repo\example005_CondIfEls\bin\Debug\net7.0\example005_CondIfEls.dll
+D:\git-repo\example005_CondIfEls\bin\Debug\net7.0\example005_CondIfEls.pdb
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\example005_CondIfEls.dll
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\refint\example005_CondIfEls.dll
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\example005_CondIfEls.pdb
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\example005_CondIfEls.genruntimeconfig.cache
+D:\git-repo\example005_CondIfEls\obj\Debug\net7.0\ref\example005_CondIfEls.dll
