@@ -1,0 +1,15 @@
+D:\git-repo\example007_While\bin\Debug\net7.0\example007_While.exe
+D:\git-repo\example007_While\bin\Debug\net7.0\example007_While.deps.json
+D:\git-repo\example007_While\bin\Debug\net7.0\example007_While.runtimeconfig.json
+D:\git-repo\example007_While\bin\Debug\net7.0\example007_While.dll
+D:\git-repo\example007_While\bin\Debug\net7.0\example007_While.pdb
+D:\git-repo\example007_While\obj\Debug\net7.0\example007_While.csproj.AssemblyReference.cache
+D:\git-repo\example007_While\obj\Debug\net7.0\example007_While.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-repo\example007_While\obj\Debug\net7.0\example007_While.AssemblyInfoInputs.cache
+D:\git-repo\example007_While\obj\Debug\net7.0\example007_While.AssemblyInfo.cs
+D:\git-repo\example007_While\obj\Debug\net7.0\example007_While.csproj.CoreCompileInputs.cache
+D:\git-repo\example007_While\obj\Debug\net7.0\example007_While.dll
+D:\git-repo\example007_While\obj\Debug\net7.0\refint\example007_While.dll
+D:\git-repo\example007_While\obj\Debug\net7.0\example007_While.pdb
+D:\git-repo\example007_While\obj\Debug\net7.0\example007_While.genruntimeconfig.cache
+D:\git-repo\example007_While\obj\Debug\net7.0\ref\example007_While.dll
